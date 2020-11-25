@@ -6,6 +6,14 @@ The schedule of taking medicine can also be synced with the Google Calendar to g
 
 ## Features
 
+1. Read and detect medicines on the prescription image
+2. Set Alert on time for taking medicines
+3. Synchronize across all the devices using Google Calendar
+
 ## Tech used
- 
+
+ Azure Cloud Cognitive AI engine
+ Python
+ Flask
+ OpenCV
 
