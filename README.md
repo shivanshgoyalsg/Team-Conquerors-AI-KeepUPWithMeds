@@ -12,8 +12,8 @@ The schedule of taking medicine can also be synced with the Google Calendar to g
 
 ## Tech used
 
- Azure Cloud Cognitive AI engine
- Python
- Flask
- OpenCV
+ 1. Azure Cloud Cognitive AI engine
+ 2. Python
+ 3. Flask
+ 4. OpenCV
 
